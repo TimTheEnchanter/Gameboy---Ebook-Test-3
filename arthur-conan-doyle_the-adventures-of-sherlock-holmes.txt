@@ -1979,9 +1979,7 @@ a practical test. Here is the first heading upon which I come. "òA
 husband's cruelty to his wife.' There is half a column of print, but I
 know without reading it that it is all perfectly familiar to me. There is,
 of course, the other woman, the drink, the push, the blow, the bruise,
-the sympathetic sister or landlady. The crudest of writers could invent
-
-
+the sympathetic sister or landlady. The crudest of writers could invent
 nothing more crude."ù
 
 "Indeed, your example is an unfortunate one for your argument,"ù said
@@ -2177,9 +2175,7 @@ mine yet."ù
 you?"ù
 
 "Well, father was going off to France again in a week, and Hosmer
-wrote and said that it would be safer and better not to see each other
-
-
+wrote and said that it would be safer and better not to see each other
 until he had gone. We could write in the meantime, and he used to
 write every day. I took the letters in in the morning, so there was no
 need for father to know."ù
@@ -2225,9 +2221,7 @@ returned to France?"ù
 should marry before father came back. He was in dreadful earnest and
 made me swear, with my hands on the Testament, that whatever
 happened I would always be true to him. Mother said he was quite right
-to make me swear, and that it was a sign of his passion. Mother was all
-
-
+to make me swear, and that it was a sign of his passion. Mother was all
 in his favour from the first and was even fonder of him than I was.
 Then, when they talked of marrying within the week, I began to ask
 about father; but they both said never to mind about father, but just to
@@ -2325,9 +2319,7 @@ to Hosmer. He shall find me ready when he comes back."ù
 
 For all the preposterous hat and the vacuous face, there was
 something noble in the simple faith of our visitor which compelled our
-respect. She laid her little bundle of papers upon the table and went her
-
-
+respect. She laid her little bundle of papers upon the table and went her
 way, with a promise to come again whenever she might be summoned.
 
 Sherlock Holmes sat silent for a few minutes with his fingertips still
@@ -2419,9 +2411,7 @@ Anybody bringing-"ù
 
 "That will do,"ù said Holmes. "As to the letters,"ù he continued,
 glancing over them, "they are very commonplace. Absolutely no clue in
-them to Mr. Angel, save that he quotes Balzac once. There is one
-
-
+them to Mr. Angel, save that he quotes Balzac once. There is one
 remarkable point, however, which will no doubt strike you."ù
 
 "They are typewritten,"ù I remarked.
@@ -2520,9 +2510,7 @@ believe that I will succeed in discovering Mr. Hosmer Angel."ù
 Mr. Windibank gave a violent start and dropped his gloves. "I am
 delighted to hear it,"ù he said.
 
-"It is a curious thing,"ù remarked Holmes, "that a typewriter has really
-
-
+"It is a curious thing,"ù remarked Holmes, "that a typewriter has really
 quite as much individuality as a man's handwriting. Unless they are
 quite new, no two of them write exactly alike. Some letters get more
 worn than others, and some wear only on one side. Now, you remark in
@@ -2664,9 +2652,7 @@ far as we could see, was the stepfather. Then the fact that the two men
 were never together, but that the one always appeared when the other
 was away, was suggestive. So were the tinted spectacles and the curious
 voice, which both hinted at a disguise, as did the bushy whiskers. My
-suspicions were all confirmed by his peculiar action in typewriting his
-
-
+suspicions were all confirmed by his peculiar action in typewriting his
 signature, which, of course, inferred that his handwriting was so
 familiar to her that she would recognise even the smallest sample of it.
 You see all these isolated facts, together with many minor ones, all
@@ -2694,7 +2680,7 @@ much sense in Hafiz as in Horace, and as much knowledge of the
 world."ù
 
 
-The Boscombe Valley Mystery
+~iThe Boscombe Valley Mystery
 
 We were seated at breakfast one morning, my wife and I, when the
 maid brought in a telegram. It was from Sherlock Holmes and ran in
@@ -2779,9 +2765,7 @@ Hatherley about three in the afternoon and walked down to the
 Boscombe Pool, which is a small lake formed by the spreading out of
 the stream which runs down the Boscombe Valley. He had been out
 with his serving-man in the morning at Ross, and he had told the man
-that he must hurry, as he had an appointment of importance to keep at
-
-
+that he must hurry, as he had an appointment of importance to keep at
 three. From that appointment he never came back alive.
 
 "From Hatherley Farmhouse to the Boscombe Pool is a quarter of a
@@ -2824,9 +2808,7 @@ Tuesday, he was on Wednesday brought before the magistrates at Ross,
 who have referred the case to the next Assizes. Those are the main facts
 of the case as they came out before the coroner and the police-court."ù
 
-"I could hardly imagine a more damning case,"ù I remarked. "If ever
-
-
+"I could hardly imagine a more damning case,"ù I remarked. "If ever
 circumstantial evidence pointed to a criminal it does so here."ù
 
 "Circumstantial evidence is a very tricky thing,"ù answered Holmes
@@ -2961,9 +2943,7 @@ further of the matter.'
 "The Coroner: Did your father make any statement to you
 before he died?
 
-"Witness: He mumbled a few words, but I could only catch
-
-
+"Witness: He mumbled a few words, but I could only catch
 some allusion to a rat.
 
 "The Coroner: What did you understand by that?
@@ -3060,9 +3040,7 @@ where a room had already been engaged for us.
 "I knew your energetic nature, and that you would not be happy until
 you had been on the scene of the crime."ù
 
-"It was very nice and complimentary of you,"ù Holmes answered. "It is
-
-
+"It was very nice and complimentary of you,"ù Holmes answered. "It is
 entirely a question of barometric pressure."ù
 
 Lestrade looked startled. "I do not quite follow,"ù he said.
@@ -3210,8 +3188,6 @@ some part of his dress, presumably his overcoat, in his flight, and must
 have had the hardihood to return and to carry it away at the instant
 when the son was kneeling with his back turned not a dozen paces off.
 What a tissue of mysteries and improbabilities the whole thing was! I
-
-
 did not wonder at Lestrade's opinion, and yet I had so much faith in
 Sherlock Holmes' insight that I could not lose hope as long as every
 fresh fact seemed to strengthen his conviction of young McCarthy's
@@ -3256,9 +3232,7 @@ father did not know where he was. Mark that point. It is of importance.
 Good has come out of evil, however, for the barmaid, finding from the
 papers that he is in serious trouble and likely to be hanged, has thrown
 him over utterly and has written to him to say that she has a husband
-already in the Bermuda Dockyard, so that there is really no tie between
-
-
+already in the Bermuda Dockyard, so that there is really no tie between
 them. I think that that bit of news has consoled young McCarthy for all
 that he has suffered."ù
 
@@ -3353,9 +3327,7 @@ actions was directed towards a definite end.
 The Boscombe Pool, which is a little reed-girt sheet of water some
 fifty yards across, is situated at the boundary between the Hatherley
 Farm and the private park of the wealthy Mr. Turner. Above the woods
-which lined it upon the farther side we could see the red, jutting
-
-
+which lined it upon the farther side we could see the red, jutting
 pinnacles which marked the site of the rich landowner's dwelling. On
 the Hatherley side of the pool the woods grew very thick, and there was
 a narrow belt of sodden grass twenty paces across between the edge of
@@ -3496,9 +3468,7 @@ only caught the last two syllables. He was trying to utter the name of
 his murderer. So-and-so, of Ballarat."ù
 
 "It is wonderful!"ù I exclaimed.
-"It is obvious. And now, you see, I had narrowed the field down
-
-
+"It is obvious. And now, you see, I had narrowed the field down
 considerably. The possession of a grey garment was a third point which,
 granting the son's statement to be correct, was a certainty. We have
 come now out of mere vagueness to the definite conception of an
@@ -3545,9 +3515,7 @@ not a clean one, so I deduced a blunt penknife."ù
 
 "Holmes,"ù I said, "you have drawn a net round this man from which
 he cannot escape, and you have saved an innocent human life as truly
-as if you had cut the cord which was hanging him. I see the direction in
-
-
+as if you had cut the cord which was hanging him. I see the direction in
 which all this points. The culprit is-"ù
 
 "Mr. John Turner,"ù cried the hotel waiter, opening the door of our
@@ -3597,9 +3565,7 @@ rather die under my own roof than in a gaol."ù
 
 Holmes rose and sat down at the table with his pen in his hand and a
 bundle of paper before him. "Just tell us the truth,"ù he said. "I shall jot
-down the facts. You will sign it, and Watson here can witness it. Then I
-
-
+down the facts. You will sign it, and Watson here can witness it. Then I
 could produce your confession at the last extremity to save young
 McCarthy. I promise you that I shall not use it unless it is absolutely
 needed."ù
@@ -3645,9 +3611,7 @@ McCarthy laid his grip upon me.
 "I had gone up to town about an investment, and I met him in Regent
 Street with hardly a coat to his back or a boot to his foot.
 
-'Here we are, Jack,' says he, touching me on the arm; "òwe'll be as
-
-
+'Here we are, Jack,' says he, touching me on the arm; "òwe'll be as
 good as a family to you. There's two of us, me and my son, and you can
 have the keeping of us. If you don't-it's a fine, law-abiding country is
 England, and there's always a policeman within hail.'
@@ -3719,7 +3683,7 @@ the son and daughter may come to live happily together in ignorance of
 the black cloud which rests upon their past.
 
 
-The Five Orange Pips
+~iThe Five Orange Pips
 
 When I glance over my notes and records of the Sherlock Holmes cases
 between the years '82 and '90, I am faced by so many which present
@@ -3753,9 +3717,7 @@ sketch out at some future date, but none of them present such singular
 features as the strange train of circumstances which I have now taken
 up my pen to describe.
 
-It was in the latter days of September, and the equinoctial gales had
-
-
+It was in the latter days of September, and the equinoctial gales had
 set in with exceptional violence. All day the wind had screamed and the
 rain had beaten against the windows, so that even here in the heart of
 great, handmade London we were forced to raise our minds for the
@@ -3802,9 +3764,7 @@ eyes. "I trust that I am not intruding. I fear that I have brought some
 traces of the storm and rain into your snug chamber."ù
 
 "Give me your coat and umbrella,"ù said Holmes. "They may rest here
-on the hook and will be dry presently. You have come up from the
-
-
+on the hook and will be dry presently. You have come up from the
 southwest, I see."ù
 
 "Yes, from Horsham."ù
@@ -3853,9 +3813,7 @@ back to the commencement of the affair.
 and my father Joseph. My father had a small factory at Coventry, which
 he enlarged at the time of the invention of bicycling. He was a patentee
 of the Openshaw unbreakable tire, and his business met with such
-success that he was able to sell it and to retire upon a handsome
-
-
+success that he was able to sell it and to retire upon a handsome
 competence.
 
 "My uncle Elias emigrated to America when he was a young man and
@@ -3898,9 +3856,7 @@ for him to receive letters, for his bills were all paid in ready money, and
 he had no friends of any sort. "òFrom India!' said he as he took it up,
 "òPondicherry postmark! What can this be?' Opening it hurriedly, out
 there jumped five little dried orange pips, which pattered down upon
-his plate. I began to laugh at this, but the laugh was struck from my lips
-
-
+his plate. I began to laugh at this, but the laugh was struck from my lips
 at the sight of his face. His lip had fallen, his eyes were protruding, his
 skin the colour of putty, and he glared at the envelope which he still
 held in his trembling hand, "òK.K.K.!' he shrieked, and then, "òMy God, my
@@ -3945,9 +3901,7 @@ usual routine of our lives. I could see a change in my uncle, however.
 He drank more than ever, and he was less inclined for any sort of
 society. Most of his time he would spend in his room, with the door
 locked upon the inside, but sometimes he would emerge in a sort of
-drunken frenzy and would burst out of the house and tear about the
-
-
+drunken frenzy and would burst out of the house and tear about the
 garden with a revolver in his hand, screaming out that he was afraid of
 no man, and that he was not to be cooped up, like a sheep in a pen, by
 man or devil. When these hot fits were over, however, he would rush
@@ -4039,9 +3993,7 @@ once. My father had fallen over one of the deep chalk-pits which
 abound in the neighbourhood, and was lying senseless, with a shattered
 skull. I hurried to him, but he passed away without having ever
 recovered his consciousness. He had, as it appears, been returning from
-Fareham in the twilight, and as the country was unknown to him, and
-
-
+Fareham in the twilight, and as the country was unknown to him, and
 the chalk-pit unfenced, the jury had no hesitation in bringing in a
 verdict of "òdeath from accidental causes.' Carefully as I examined every
 fact connected with his death, I was unable to find anything which
@@ -4088,9 +4040,7 @@ lost. Nothing but energy can save you. This is no time for despair."ù
 "Ah!"ù
 "But they listened to my story with a smile. I am convinced that the
 inspector has formed the opinion that the letters are all practical jokes,
-and that the deaths of my relations were really accidents, as the jury
-
-
+and that the deaths of my relations were really accidents, as the jury
 stated, and were not to be connected with the warnings."ù
 
 Holmes shook his clenched hands in the air. "Incredible imbecility!"ù
@@ -4137,9 +4087,7 @@ of St. Augustine.
 12th. Visited Paramore. All well.
 
 "Thank you!"ù said Holmes, folding up the paper and returning it to
-our visitor. "And now you must on no account lose another instant. We
-
-
+our visitor. "And now you must on no account lose another instant. We
 cannot spare time even to discuss what you have told me. You must get
 home instantly and act."ù
 
@@ -4234,9 +4182,7 @@ think, were the main points of my analysis."ù
 
 Holmes grinned at the last item. "Well,"ù he said, "I say now, as I said
 then, that a man should keep his little brain-attic stocked with all the
-furniture that he is likely to use, and the rest he can put away in the
-
-
+furniture that he is likely to use, and the rest he can put away in the
 lumber-room of his library, where he can get it if he wants it. Now, for
 such a case as the one which has been submitted to us tonight, we need
 certainly to muster all our resources. Kindly hand me down the letter K
@@ -4280,9 +4226,7 @@ which brought the writer."ù
 
 "It is possible."ù
 "More than that. It is probable. And now you see the deadly urgency
-of this new case, and why I urged young Openshaw to caution. The
-
-
+of this new case, and why I urged young Openshaw to caution. The
 blow has always fallen at the end of the time which it would take the
 senders to travel the distance. But this one comes from London, and
 therefore we cannot count upon delay."ù
@@ -4326,9 +4270,7 @@ succeeded in braving it with impunity, or in which any of its outrages
 were traced home to the perpetrators. For some years the organisation
 flourished in spite of the efforts of the United States government and of
 the better classes of the community in the South. Eventually, in the year
-1869, the movement rather suddenly collapsed, although there have
-
-
+1869, the movement rather suddenly collapsed, although there have
 been sporadic outbreaks of the same sort since that date.'
 
 "You will observe,"ù said Holmes, laying down the volume, "that the
@@ -4373,9 +4315,7 @@ glanced my eye over it. It rested upon a heading which sent a chill to
 my heart.
 
 "Holmes,"ù I cried, "you are too late."ù
-"Ah!"ù said he, laying down his cup, "I feared as much. How was it
-
-
+"Ah!"ù said he, laying down his cup, "I feared as much. How was it
 done?"ù He spoke calmly, but I could see that he was deeply moved.
 
 "My eye caught the name of Openshaw, and the heading "òTragedy
@@ -4422,9 +4362,7 @@ take the flies, but not before."ù
 All day I was engaged in my professional work, and it was late in the
 evening before I returned to Baker Street. Sherlock Holmes had not
 come back yet. It was nearly ten o'clock before he entered, looking pale
-and worn. He walked up to the sideboard, and tearing a piece from the
-
-
+and worn. He walked up to the sideboard, and tearing a piece from the
 loaf he devoured it voraciously, washing it down with a long draught of
 water.
 
@@ -4472,9 +4410,7 @@ an American origin."ù
 
 "What then?"ù
 "I searched the Dundee records, and when I found that the barque
-Lone Star was there in January, '85, my suspicion became a certainty. I
-
-
+Lone Star was there in January, '85, my suspicion became a certainty. I
 then inquired as to the vessels which lay at present in the port of
 London."ù
 
@@ -4508,7 +4444,7 @@ upon it, and that is all which we shall ever know of the fate of the Lone
 Star.
 
 
-The Man with the Twisted Lip
+~iThe Man with the Twisted Lip
 
 Isa Whitney, brother of the late Elias Whitney, D.D., Principal of the
 Theological College of St. George's, was much addicted to opium. The
@@ -4546,9 +4482,7 @@ in."ù
 always the way. Folk who were in grief came to my wife like birds to a
 lighthouse.
 
-"It was very sweet of you to come. Now, you must have some wine
-
-
+"It was very sweet of you to come. Now, you must have some wine
 and water, and sit here comfortably and tell us all about it. Or should
 you rather that I sent James off to bed?"ù
 
@@ -4593,9 +4527,7 @@ den of which I was in search. Ordering my cab to wait, I passed down
 the steps, worn hollow in the centre by the ceaseless tread of drunken
 feet; and by the light of a flickering oil-lamp above the door I found the
 latch and made my way into a long, low room, thick and heavy with the
-brown opium smoke, and terraced with wooden berths, like the
-
-
+brown opium smoke, and terraced with wooden berths, like the
 forecastle of an emigrant ship.
 
 Through the gloom one could dimly catch a glimpse of bodies lying in
@@ -4645,9 +4577,7 @@ hand! Have you a cab?"ù
 "Then I shall go in it. But I must owe something. Find what I owe,
 Watson. I am all off colour. I can do nothing for myself."ù
 
-I walked down the narrow passage between the double row of
-
-
+I walked down the narrow passage between the double row of
 sleepers, holding my breath to keep out the vile, stupefying fumes of the
 drug, and looking about for the manager. As I passed the tall man who
 sat by the brazier I felt a sudden pluck at my skirt, and a low voice
